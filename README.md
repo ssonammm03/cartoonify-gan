@@ -1,1 +1,1 @@
-# cartoonify-gan
+# Cartoonify AI Project
